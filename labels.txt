@@ -1,0 +1,10 @@
+0 Bacterial_spot
+1 Early_bright
+2 Late_blight
+3 Leaf_mold
+4 Powder_mildew
+5 Septoria_leaf_spot
+6 Spider_mites
+7 Target_spot
+8 Tomato_mosaic_virus
+9 Tomato_yellow_leaf_curl_virus
